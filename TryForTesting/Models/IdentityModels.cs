@@ -29,5 +29,7 @@ namespace TryForTesting.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<TryForTesting.Models.Test> Tests { get; set; }
     }
 }
