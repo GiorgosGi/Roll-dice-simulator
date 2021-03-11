@@ -8,6 +8,7 @@ namespace TryForTesting.Tests
     /// <summary>
     /// Summary description for UnitTest1
     /// </summary>
+    
     [TestClass]
     public class UnitTest1
     {
